@@ -6,11 +6,21 @@
 .chat{
   padding: 10px 5px;
   margin-top: 10px;
-  background-color: aqua;
+  background-color: rgb(127, 192, 192);
   display: inline-block;
 }
 
 .message{
   background-color: rgb(118, 102, 133);
   border-radius: 15px;
+  padding: 15px;
+}
+
+.button-des{
+  padding: 2px;
+  border-radius: 2px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
 }
